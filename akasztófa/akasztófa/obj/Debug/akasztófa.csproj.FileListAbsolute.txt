@@ -1,0 +1,7 @@
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\akasztófa\akasztófa\bin\Debug\akasztófa.exe.config
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\akasztófa\akasztófa\bin\Debug\akasztófa.exe
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\akasztófa\akasztófa\bin\Debug\akasztófa.pdb
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\akasztófa\akasztófa\obj\Debug\akasztófa.csprojAssemblyReference.cache
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\akasztófa\akasztófa\obj\Debug\akasztófa.csproj.CoreCompileInputs.cache
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\akasztófa\akasztófa\obj\Debug\akasztófa.exe
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\akasztófa\akasztófa\obj\Debug\akasztófa.pdb
